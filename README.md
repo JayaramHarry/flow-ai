@@ -32,7 +32,7 @@ Ensure you have the following installed before running the project:
 
 1. **Clone the repository:**
 
-    git clone https://github.com/your-repo/flow-ai-personal-expense-tracker.git
+    git clone (https://github.com/JayaramHarry/flow-ai.git)
     cd flow-ai-personal-expense-tracker
     
 
@@ -47,7 +47,7 @@ Ensure you have the following installed before running the project:
    Create a `.env` file in the root of the project and add the following variables:
 
    
-    MONGODB_URI="mongodb+srv://akulajayaram96:Harry123@user-logins.2czbbuy.mongodb.net/flow-ai"
+    MONGODB_URI="mongodb+srv://<username>:<password>@user-logins.2czbbuy.mongodb.net/flow-ai"
     JWT_SECRET="your_jwt_secret"
     PORT=5000
     
